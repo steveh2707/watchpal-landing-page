@@ -5,56 +5,50 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+19 February 2025
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+At WatchPal, we prioritize your privacy. This Privacy Policy outlines how we handle your data when you use the WatchPal app.
+<br>
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+## 1.0 Data Collection
+WatchPal does not collect or store any of your personal data on our servers. All your app-related data, such as watchlists, progress tracking, and custom lists, is stored locally on your device and synced securely via Apple iCloud to your other devices.
+<br>
+
+## 2.0 Data Syncing via iCloud
+To enable seamless cross-device usage, WatchPal uses Apple's iCloud service to sync your app data. This process is managed entirely by Apple, and WatchPal does not have access to the data stored in your iCloud account. For more information on iCloud's privacy practices, please refer to Apple's Privacy Policy.
+<br>
+
+## 3.0 Third-Party APIs and Services
+WatchPal uses the following APIs and services:
+Content Information APIs
+
+The Movie Database (TMDB): https://www.themoviedb.org/privacy-policy
+TVMaze: https://www.tvmaze.com/privacy
+OMDB API: https://www.omdbapi.com/legal
+
+These services provide data such as movie details, show descriptions, cast and crew information, and streaming availability. While these APIs are accessed to fetch public information, no personally identifiable information (PII) or user data is shared with these services.
+Video Playback
+WatchPal uses YouTubePlayerKit to play movie and TV show trailers. This integration allows for seamless playback of YouTube content within the app. The service operates under YouTube's terms of service and privacy policy. No personal data is shared with YouTubePlayerKit beyond what is necessary for basic video playback functionality.
+<br>
+
+## 4.0 Error Reporting and Crash Logs
+WatchPal may utilize Apple's built-in crash reporting tools to help identify and resolve technical issues. These reports are anonymized and do not contain any personal data. For details, please review Apple's Privacy Policy.
 
 <br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
-
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
-
+## 5.0 No Data Sharing with Developers or Third Parties
+We do not collect, store, or share any of your personal data with WatchPal's developers or third-party entities. Your data remains entirely under your control and is accessible only to you.
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
-
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
-
+## 6.0 Permissions
+WatchPal does not require or request access to sensitive device features such as your location, contacts, or photos.
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
+## 7.0 Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in the app or legal requirements. The latest version will always be available within the app and on our website (if applicable).
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 8.0 Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+watchpal@stephenhanna.uk
