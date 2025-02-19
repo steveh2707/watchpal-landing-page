@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Track Your Progress
     description                           : Create a watchlist for movies and shows you plan to check out and keep track of your current progress.
-    fontawesome_icon_name                 : bars-progress
+    fontawesome_icon_name                 : circle-notch
 
   - title                                 : Custom Lists for Your Favorites
     description                           : Build your own lists for any occasion “Weekend Binges”, “All-Time Favorites”, or “Oscar Winners to Watch”.
@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : Cast & Crew
     description                           : See cast and crew details, from directors to actors, and explore their other works.
-    fontawesome_icon_name                 : masks-theater
+    fontawesome_icon_name                 : user
 
   - title                                 : Where to Watch
     description                           : Find out where to watch—get links to streaming platforms for instant access.
